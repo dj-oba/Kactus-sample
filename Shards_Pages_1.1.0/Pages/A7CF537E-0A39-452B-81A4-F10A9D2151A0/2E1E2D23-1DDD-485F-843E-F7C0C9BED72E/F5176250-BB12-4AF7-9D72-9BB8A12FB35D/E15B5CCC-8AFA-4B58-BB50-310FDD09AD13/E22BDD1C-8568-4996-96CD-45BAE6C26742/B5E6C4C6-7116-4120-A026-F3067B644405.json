@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B5E6C4C6-7116-4120-A026-F3067B644405",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 158,
+    "x": 1198,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Button - Pill Shaped - Dark",
+  "nameIsFixed": true,
+  "overrides": {
+    "19D55E6B-6C06-4285-A034-BF09B2BA5CBE": {
+      "symbolID": "387A9771-81B5-4714-BFF9-DB4C45AD62D3"
+    },
+    "1E4D3D0E-B669-49E6-A26C-65B704353A30": {
+      "A9CD4C14-BE87-4AB2-8E3F-2478DCFBBA10": "Dark"
+    },
+    "6BAA25A6-EF3D-457A-B576-E4948FAA6546": {
+      "symbolID": "387A9771-81B5-4714-BFF9-DB4C45AD62D3"
+    },
+    "AB06B658-1610-4D63-BF1D-D85B72B18B98": {
+      "symbolID": "387A9771-81B5-4714-BFF9-DB4C45AD62D3"
+    },
+    "CA2B9853-C60D-4321-B5EE-49BDBDD394B9": {
+    },
+    "D14CFA7E-F421-4576-906B-C7A83E1F9481": {
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F5ED00EC-5E59-43E5-A11D-A90AF66DC688",
+  "verticalSpacing": 0
+}

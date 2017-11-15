@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "4F37882F-7A2C-4596-A521-77CCD0101DC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 609,
+    "width": 535,
+    "x": 605,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6E81C276-E163-4CCD-BB4F-64F041207824"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50C91C6D-7482-4FE0-BA04-60918DA4CDB9"
+    },
+    {
+      "class": "group",
+      "id": "7811C6A9-F821-4D26-AFA8-500C5DD620E5"
+    },
+    {
+      "class": "text",
+      "id": "23F6B511-2B62-4B9E-B0F1-80E29369DA3C"
+    }
+  ],
+  "name": "Mobile App Landing Page",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

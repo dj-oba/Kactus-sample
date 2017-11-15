@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "80B3F285-FFD3-40A5-8DD3-E8C0DA9BAA90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 270,
+    "x": 277,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D7AD3783-779B-40E7-B52C-5A52970C8F7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C4B037A-05A2-43E1-AF6D-2FA6CC2871CF"
+    },
+    {
+      "class": "text",
+      "id": "F00A3D46-96CB-46EF-B18B-8C23780F258E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1CC498B-8372-4836-8355-C58C750EB978"
+    }
+  ],
+  "name": "Button - Share on Facebook",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

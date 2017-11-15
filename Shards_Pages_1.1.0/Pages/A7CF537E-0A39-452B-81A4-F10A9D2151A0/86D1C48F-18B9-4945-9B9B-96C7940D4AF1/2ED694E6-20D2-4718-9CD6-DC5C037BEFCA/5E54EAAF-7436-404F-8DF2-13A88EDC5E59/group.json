@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "5E54EAAF-7436-404F-8DF2-13A88EDC5E59",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 244,
+    "width": 169,
+    "x": 372,
+    "y": 190
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F1AE99F3-4458-488B-AA45-A47ECA3CD4A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADC7A628-4784-4E56-B54C-FD8AF5F868C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5307538-A00A-4DF2-988E-B182D1E8964D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0268DFC-6CE2-43DF-830A-E472F7384C35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4BEBB0B9-1343-445B-BD62-1ADFCDD474DC"
+    }
+  ],
+  "name": "Radio Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

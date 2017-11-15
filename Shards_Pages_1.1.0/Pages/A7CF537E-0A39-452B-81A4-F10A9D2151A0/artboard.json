@@ -1,0 +1,162 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "green": 0.9803921568627451,
+    "red": 0.9803921568627451
+  },
+  "do_objectID": "A7CF537E-0A39-452B-81A4-F10A9D2151A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 13545,
+    "width": 1781,
+    "x": -447,
+    "y": -137
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A0469840-9AC2-4EAA-B17A-9A47CB78411C"
+    },
+    {
+      "class": "group",
+      "id": "545F66DE-0432-4079-8FFD-CFAB24C45CD8"
+    },
+    {
+      "class": "group",
+      "id": "70B30A3C-2305-445B-A09F-814BB17B1A11"
+    },
+    {
+      "class": "group",
+      "id": "A432429A-83BD-44B3-95BC-2500050B88AB"
+    },
+    {
+      "class": "group",
+      "id": "331598BA-F177-490F-863A-322B59181F67"
+    },
+    {
+      "class": "group",
+      "id": "86D1C48F-18B9-4945-9B9B-96C7940D4AF1"
+    },
+    {
+      "class": "group",
+      "id": "CA4F30BA-DA44-408B-88ED-D4D0047DBC9E"
+    },
+    {
+      "class": "group",
+      "id": "2E1E2D23-1DDD-485F-843E-F7C0C9BED72E"
+    },
+    {
+      "class": "group",
+      "id": "7311738E-6351-4138-9A81-CE9F6F351431"
+    },
+    {
+      "class": "group",
+      "id": "B4A400FA-972F-410F-A435-1A79B500F8C4"
+    },
+    {
+      "class": "group",
+      "id": "B7D4F2C0-954D-4FF4-96BB-C75E6552DD53"
+    },
+    {
+      "class": "group",
+      "id": "8BFD9E6D-325B-4B4E-906D-764EA1111C93"
+    },
+    {
+      "class": "group",
+      "id": "444ADFA3-CBDB-4338-B410-FFED29984B3C"
+    },
+    {
+      "class": "group",
+      "id": "A802AA75-0515-4D7E-A446-0CCFF9E44F16"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 95.66666666666667,
+    "drawHorizontal": true,
+    "drawHorizontalLines": true,
+    "drawVertical": true,
+    "gutterHeight": 23,
+    "gutterWidth": 2,
+    "guttersOutside": false,
+    "horizontalOffset": 305.5,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1170
+  },
+  "name": "Shards - Demo Page",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

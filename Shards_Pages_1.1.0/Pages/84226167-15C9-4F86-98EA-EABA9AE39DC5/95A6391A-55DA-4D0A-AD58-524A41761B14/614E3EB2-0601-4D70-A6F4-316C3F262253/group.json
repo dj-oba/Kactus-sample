@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "614E3EB2-0601-4D70-A6F4-316C3F262253",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 173,
+    "width": 526,
+    "x": 587,
+    "y": 444
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E3BD8C13-C96A-4506-92E3-E675458678B4"
+    },
+    {
+      "class": "text",
+      "id": "AB8E47C6-EA85-4780-9105-F14253DC7A72"
+    },
+    {
+      "class": "text",
+      "id": "A32E4837-8EDA-41B6-A065-D2A3C12FC6B2"
+    }
+  ],
+  "name": "Feature - Training & Support",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

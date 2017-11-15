@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "84DC2C2B-FF14-41D7-9BA4-760FC8ED61F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 169,
+    "x": 0,
+    "y": 55
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 5,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Input - Checkbox - Default",
+  "nameIsFixed": true,
+  "overrides": {
+    "26D9B12E-390E-43B1-BC53-8B9F9D9223BE": {
+      "symbolID": "2EA27BD4-FB4D-4670-BA94-1516842B6405"
+    },
+    "6ECAD8EC-7B84-4FD1-B2B4-08B1866BFC98": "Pizza",
+    "F2416189-AA94-4546-AB44-B50309E65BA6": {
+      "8361C980-FB9A-4297-A3F3-D3F3E2542B78": "Pizza"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "00D013D6-84AE-48BE-8DD1-C174C056A629",
+  "verticalSpacing": 0
+}

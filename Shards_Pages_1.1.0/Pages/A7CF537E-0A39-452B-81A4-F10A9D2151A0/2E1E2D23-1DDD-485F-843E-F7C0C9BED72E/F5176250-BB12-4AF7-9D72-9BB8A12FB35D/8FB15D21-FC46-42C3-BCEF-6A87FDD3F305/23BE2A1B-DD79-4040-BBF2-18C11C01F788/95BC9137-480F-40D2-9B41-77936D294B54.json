@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "95BC9137-480F-40D2-9B41-77936D294B54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 158,
+    "x": 1027,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Button - Rounded - Light",
+  "nameIsFixed": true,
+  "overrides": {
+    "AB06B658-1610-4D63-BF1D-D85B72B18B98": {
+      "symbolID": "69332AFD-0C7C-44E0-8731-C6B561A4CA78"
+    },
+    "D14CFA7E-F421-4576-906B-C7A83E1F9481": {
+      "4A8BEE12-3026-4ADB-835A-392BE8DE8A6E": "Light",
+      "A9CD4C14-BE87-4AB2-8E3F-2478DCFBBA10": "Light",
+      "symbolID": "48B81277-6723-44A5-A8C7-BDF9D6D67049"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E78DA39E-8E0C-4090-9ACD-E4184C180B99",
+  "verticalSpacing": 0
+}

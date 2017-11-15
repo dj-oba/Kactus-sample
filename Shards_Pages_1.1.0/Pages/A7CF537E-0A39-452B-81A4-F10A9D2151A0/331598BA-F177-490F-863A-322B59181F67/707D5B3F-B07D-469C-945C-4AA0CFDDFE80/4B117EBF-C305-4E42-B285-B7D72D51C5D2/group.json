@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "4B117EBF-C305-4E42-B285-B7D72D51C5D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 280,
+    "width": 319,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DEC56623-91F6-488E-BAF2-38D349E5CB6E"
+    },
+    {
+      "class": "text",
+      "id": "8D071994-B1BC-4810-B48B-8F3C3EF4E064"
+    },
+    {
+      "class": "text",
+      "id": "21202C51-6F55-4049-85F5-9864E59E152C"
+    }
+  ],
+  "name": "Material Icons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "796EB657-7AC1-458D-B8F1-CFCF07276580",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 251,
+    "width": 230,
+    "x": 746,
+    "y": 190
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "519A0DBD-748A-4486-BF68-BC3F047916E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA603AF4-959E-409B-9484-61B48C8945CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B895C93F-464D-4808-BDA0-9D06905E4E90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA32C99E-202F-4D74-8689-06E2CDE88694"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC27266A-D874-4880-933D-48C7958B2BB8"
+    }
+  ],
+  "name": "Toggle Switches",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

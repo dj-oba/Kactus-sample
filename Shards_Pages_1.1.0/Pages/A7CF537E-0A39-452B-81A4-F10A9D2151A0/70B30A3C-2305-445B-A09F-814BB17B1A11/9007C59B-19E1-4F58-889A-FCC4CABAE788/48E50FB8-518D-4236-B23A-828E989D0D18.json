@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "48E50FB8-518D-4236-B23A-828E989D0D18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 326,
+    "width": 266,
+    "x": 603,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 54,
+  "masterInfluenceEdgeMaxYPadding": 77,
+  "masterInfluenceEdgeMinXPadding": 54,
+  "masterInfluenceEdgeMinYPadding": 31,
+  "name": "Swatch - Success",
+  "nameIsFixed": true,
+  "overrides": {
+    "10F527A5-D5C2-4CD8-923A-309CD3E0011A": "#17c671",
+    "51960020-A1BA-4A2C-94A2-E6C521AFF62F": {
+      "symbolID": "04B6640C-3D64-4827-8013-36B22D26E6EC"
+    },
+    "C2B8D443-9F88-4FF8-9BE6-6CE8F1B45E9D": "Success"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EB4AE77D-E7C9-45DA-9FA6-FA36D65DA0D1",
+  "verticalSpacing": 0
+}

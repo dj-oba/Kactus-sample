@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DAA59AA3-3F68-4626-816E-650618FFE512",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 158,
+    "x": 1026,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "Button - Pill Shaped - Light",
+  "nameIsFixed": true,
+  "overrides": {
+    "1E4D3D0E-B669-49E6-A26C-65B704353A30": {
+    },
+    "567E96AB-A10A-42C1-A6E6-FC4CFBF0F8AF": {
+      "AB06B658-1610-4D63-BF1D-D85B72B18B98": {
+        "symbolID": "04B6640C-3D64-4827-8013-36B22D26E6EC"
+      }
+    },
+    "737502AA-6F60-4184-86DC-7E4235A5498B": {
+      "4A8BEE12-3026-4ADB-835A-392BE8DE8A6E": "Primary",
+      "6506BC31-99D1-41FF-81A1-09E29D48CC6A": "Primary",
+      "A9CD4C14-BE87-4AB2-8E3F-2478DCFBBA10": "Primary",
+      "F494C0D4-A010-4131-AA11-DA3904F88FDC": "Primary",
+      "symbolID": "48B81277-6723-44A5-A8C7-BDF9D6D67049"
+    },
+    "AB06B658-1610-4D63-BF1D-D85B72B18B98": {
+      "symbolID": "1D48FC74-9342-426F-8077-A4B4F9861286"
+    },
+    "AC00AC8D-BFBF-4278-9C25-38171B74D570": {
+      "symbolID": "2D5A9A6B-3A9A-4423-BD26-29930F716DA9"
+    },
+    "CA2B9853-C60D-4321-B5EE-49BDBDD394B9": {
+    },
+    "D14CFA7E-F421-4576-906B-C7A83E1F9481": {
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "397C1BC8-BF93-4726-944C-DDEA808B877E",
+  "verticalSpacing": 0
+}

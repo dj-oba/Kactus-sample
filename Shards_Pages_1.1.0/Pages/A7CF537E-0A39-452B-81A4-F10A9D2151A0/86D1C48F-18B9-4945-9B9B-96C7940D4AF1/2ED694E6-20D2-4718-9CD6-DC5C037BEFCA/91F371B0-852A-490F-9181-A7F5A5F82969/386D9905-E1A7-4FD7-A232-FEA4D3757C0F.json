@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "386D9905-E1A7-4FD7-A232-FEA4D3757C0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 98,
+    "width": 463,
+    "x": 0,
+    "y": 17
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Input File - Custom File Input",
+  "nameIsFixed": true,
+  "overrides": {
+    "31A38FA4-DE9A-4303-89D0-E530FF03E247": {
+      "8BB99A25-F424-4175-89CB-09A5FAB998ED": "Choose file..."
+    },
+    "6ABD9420-6CCD-4397-B0EF-FEC949B6C4BC": {
+      "symbolID": "DC9DBB04-CA6C-4E4E-8269-EB6EB903D8B4"
+    },
+    "A63E74C0-DC98-4920-899C-34B6D402672D": {
+      "symbolID": ""
+    },
+    "D73DC679-18E9-4B96-9F35-1B03453D9F01": {
+      "62A567A1-24D1-4FBA-88F4-FBEB75ED8980": {
+        "8BB99A25-F424-4175-89CB-09A5FAB998ED": "Browse"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6D4635AA-35E9-457B-B836-4F13F09162CF",
+  "verticalSpacing": 0
+}

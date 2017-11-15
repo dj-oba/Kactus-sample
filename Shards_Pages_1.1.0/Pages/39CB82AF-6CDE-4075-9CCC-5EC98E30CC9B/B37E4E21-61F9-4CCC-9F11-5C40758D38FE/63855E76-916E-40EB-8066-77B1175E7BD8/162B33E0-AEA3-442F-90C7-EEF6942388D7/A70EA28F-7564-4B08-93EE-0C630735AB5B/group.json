@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "A70EA28F-7564-4B08-93EE-0C630735AB5B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 137,
+    "width": 526,
+    "x": 0,
+    "y": 561
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DCDA70A9-8D34-4982-A4BD-F455EEB437FD"
+    },
+    {
+      "class": "text",
+      "id": "EACA8966-9029-498C-ADCA-E7C0CC028ADC"
+    },
+    {
+      "class": "text",
+      "id": "8307EF54-9F48-405E-8032-8AAC5016F5F0"
+    }
+  ],
+  "name": "Feature - Access Anywhere",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "CE07F431-5AFB-41C9-AB60-F4590F3BAF03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 515,
+    "width": 721,
+    "x": 1115,
+    "y": 1187
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C8A5B3C1-CC95-4FAB-8230-2950555729AC"
+    },
+    {
+      "class": "text",
+      "id": "E9C815CF-E4F7-413D-A6B0-6155E1FA467B"
+    },
+    {
+      "class": "group",
+      "id": "BEA96AA8-FE8A-425A-90D4-9CB853B2AFEA"
+    },
+    {
+      "class": "group",
+      "id": "C295D4AD-8651-4CAA-82FD-DB522331F05D"
+    }
+  ],
+  "name": "Welcome Intro",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

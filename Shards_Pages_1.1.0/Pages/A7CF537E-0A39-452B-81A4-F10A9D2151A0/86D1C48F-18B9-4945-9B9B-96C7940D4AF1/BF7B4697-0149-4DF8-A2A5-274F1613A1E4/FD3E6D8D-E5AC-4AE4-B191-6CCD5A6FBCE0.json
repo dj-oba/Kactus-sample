@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FD3E6D8D-E5AC-4AE4-B191-6CCD5A6FBCE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 114,
+    "width": 463,
+    "x": 0,
+    "y": 182
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 5,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Input Text - First Name",
+  "nameIsFixed": true,
+  "overrides": {
+    "0F46BF1F-0237-401B-9EE9-0431503CAAE9": {
+      "8361C980-FB9A-4297-A3F3-D3F3E2542B78": "First Name",
+      "symbolID": "B1079B79-47B0-4567-9197-4AFC70D21A9A"
+    },
+    "2A309527-DA8E-41DB-9818-67EA0ECEF9C6": {
+      "symbolID": "20F9515B-31DB-452F-A399-A7A281A3521A"
+    },
+    "A4FE87FB-1298-4451-B4A1-62DCB11F7A04": {
+      "8BB99A25-F424-4175-89CB-09A5FAB998ED": "Catalin"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "86CBBCD8-EF09-4DA8-AFB9-9EB80797D9AB",
+  "verticalSpacing": 0
+}

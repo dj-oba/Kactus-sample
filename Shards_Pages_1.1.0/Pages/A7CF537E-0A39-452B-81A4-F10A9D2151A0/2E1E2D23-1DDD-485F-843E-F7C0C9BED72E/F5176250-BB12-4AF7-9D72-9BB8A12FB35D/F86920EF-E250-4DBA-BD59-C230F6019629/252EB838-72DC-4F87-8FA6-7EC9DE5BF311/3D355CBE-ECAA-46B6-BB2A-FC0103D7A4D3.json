@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3D355CBE-ECAA-46B6-BB2A-FC0103D7A4D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 158,
+    "x": 856,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Button - Squared - Info",
+  "nameIsFixed": true,
+  "overrides": {
+    "6BAA25A6-EF3D-457A-B576-E4948FAA6546": {
+      "symbolID": "20F6A7AE-674B-4C48-9AE4-905CDACC8698"
+    },
+    "AB06B658-1610-4D63-BF1D-D85B72B18B98": {
+      "symbolID": "20F6A7AE-674B-4C48-9AE4-905CDACC8698"
+    },
+    "CA2B9853-C60D-4321-B5EE-49BDBDD394B9": {
+      "A9CD4C14-BE87-4AB2-8E3F-2478DCFBBA10": "Info"
+    },
+    "D14CFA7E-F421-4576-906B-C7A83E1F9481": {
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B44F9C0F-26E6-48F1-BEA5-843204322EAE",
+  "verticalSpacing": 0
+}

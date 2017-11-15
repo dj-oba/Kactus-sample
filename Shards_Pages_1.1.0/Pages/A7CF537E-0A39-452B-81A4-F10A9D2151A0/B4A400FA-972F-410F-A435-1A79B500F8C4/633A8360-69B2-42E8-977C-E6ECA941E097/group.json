@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "633A8360-69B2-42E8-977C-E6ECA941E097",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 105,
+    "width": 1781,
+    "x": 0,
+    "y": 388
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "830C51E4-9DD6-4804-A2FC-86D66B9D683A"
+    },
+    {
+      "class": "text",
+      "id": "47EBF9D2-6ADC-491D-B16A-0C9D8668191D"
+    },
+    {
+      "class": "group",
+      "id": "CE713158-65B0-4603-B3CB-39BB4AC0C016"
+    },
+    {
+      "class": "group",
+      "id": "DEBBA928-E2AF-4576-B20C-D7DAF5EB7494"
+    },
+    {
+      "class": "text",
+      "id": "FEDBBA2A-1308-48B7-A371-2EE485DAD850"
+    }
+  ],
+  "name": "Navbar - Secondary",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

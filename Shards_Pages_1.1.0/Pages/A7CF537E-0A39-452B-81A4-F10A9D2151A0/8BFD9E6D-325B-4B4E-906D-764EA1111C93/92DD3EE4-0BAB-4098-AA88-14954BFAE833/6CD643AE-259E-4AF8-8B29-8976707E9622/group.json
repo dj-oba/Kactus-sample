@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6CD643AE-259E-4AF8-8B29-8976707E9622",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 229,
+    "x": 375.5240492170022,
+    "y": 327
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "228AF849-7529-413F-9894-48E6E7F8BD81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1E0AE2A-6654-42DF-82A7-E73E98D7EB0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E450E74A-8DC2-4908-8F26-DD89A8CADE46"
+    },
+    {
+      "class": "text",
+      "id": "C0EAF632-56E9-4097-9AD7-B4A8B594B379"
+    }
+  ],
+  "name": "Button - Pill Shaped - Primary",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

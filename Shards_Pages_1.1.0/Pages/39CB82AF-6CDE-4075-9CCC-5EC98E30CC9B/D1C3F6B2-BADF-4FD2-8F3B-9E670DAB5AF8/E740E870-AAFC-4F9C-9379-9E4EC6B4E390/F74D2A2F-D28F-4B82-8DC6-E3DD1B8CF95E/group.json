@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "F74D2A2F-D28F-4B82-8DC6-E3DD1B8CF95E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 316,
+    "x": 5,
+    "y": 403
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DFBB90F2-735B-40D4-8A20-4883D0564396"
+    },
+    {
+      "class": "bitmap",
+      "id": "CA4D44AF-12BC-4EB6-B7DF-2B75924FE741"
+    }
+  ],
+  "name": "App Store Badges",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

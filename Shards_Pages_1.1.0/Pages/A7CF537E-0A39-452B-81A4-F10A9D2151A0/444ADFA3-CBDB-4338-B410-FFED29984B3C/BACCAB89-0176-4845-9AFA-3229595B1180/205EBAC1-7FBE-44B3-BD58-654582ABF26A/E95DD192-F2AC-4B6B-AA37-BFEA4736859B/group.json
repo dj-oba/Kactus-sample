@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "E95DD192-F2AC-4B6B-AA37-BFEA4736859B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 242,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BA14A13A-8B90-4F60-A54C-19801007423A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E43F23A3-9853-47BC-AB3D-99C8A4E2795E"
+    },
+    {
+      "class": "text",
+      "id": "051016BB-47CB-4A03-B1DB-18F6FF9CA155"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7DF84EE-D493-4042-B4C3-D24B4B1A6F22"
+    }
+  ],
+  "name": "Button - Share on Twitter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

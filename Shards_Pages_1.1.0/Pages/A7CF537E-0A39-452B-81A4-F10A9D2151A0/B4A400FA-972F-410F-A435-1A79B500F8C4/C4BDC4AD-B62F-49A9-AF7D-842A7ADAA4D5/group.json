@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "C4BDC4AD-B62F-49A9-AF7D-842A7ADAA4D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 105,
+    "width": 1781,
+    "x": 0,
+    "y": 928
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9CE5196B-8C4E-44BC-A0A5-3F7C8FC02708"
+    },
+    {
+      "class": "text",
+      "id": "F7BD5C8E-CF6E-40AF-AB05-755189172D38"
+    },
+    {
+      "class": "group",
+      "id": "AC7B7C6E-7D86-4C29-B87B-F8774AB954E4"
+    },
+    {
+      "class": "group",
+      "id": "231F0AFB-2EEB-4020-B7D2-5B883E4C1DA5"
+    },
+    {
+      "class": "text",
+      "id": "F159A024-36BD-416B-AF12-C1C90F5B548C"
+    }
+  ],
+  "name": "Navbar - Dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

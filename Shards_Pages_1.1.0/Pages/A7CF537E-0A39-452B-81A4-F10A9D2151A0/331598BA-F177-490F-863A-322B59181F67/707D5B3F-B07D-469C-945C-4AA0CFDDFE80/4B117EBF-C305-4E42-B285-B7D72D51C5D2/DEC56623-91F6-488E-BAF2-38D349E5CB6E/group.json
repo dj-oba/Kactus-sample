@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "DEC56623-91F6-488E-BAF2-38D349E5CB6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 165,
+    "width": 165,
+    "x": 77,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "026BA162-7FA9-4598-8AA0-05E6F41819BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C98C56C4-13D8-4FE3-8F40-CA6F21C8C4AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C1CC282D-7507-4C5E-B4D6-96EE8B45A775"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F6B4EE4E-1F13-4806-98F5-4C05970F897C"
+    }
+  ],
+  "name": "material icons logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

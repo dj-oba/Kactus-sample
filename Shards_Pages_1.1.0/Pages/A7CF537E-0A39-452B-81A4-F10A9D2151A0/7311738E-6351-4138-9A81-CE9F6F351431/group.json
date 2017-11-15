@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7311738E-6351-4138-9A81-CE9F6F351431",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 434,
+    "width": 1781,
+    "x": 0,
+    "y": 8971
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "CAFB26F3-8496-4FD4-84D9-76487B6D1FCC"
+    },
+    {
+      "class": "group",
+      "id": "3DC7BE90-0022-4665-BB7B-152C4AFCFBEB"
+    },
+    {
+      "class": "group",
+      "id": "71E6EBF7-BAA9-4382-9A68-BE37AC63DE2E"
+    },
+    {
+      "class": "group",
+      "id": "6A4E9D02-D66E-41BA-B031-65F8069FE147"
+    },
+    {
+      "class": "group",
+      "id": "C553C06C-DAC9-4CFF-9B57-2968D29BE408"
+    }
+  ],
+  "name": "Alerts - Section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "A1DA6667-C8AE-4DAF-AC65-B1A2DBA7AFB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 597,
+    "width": 1171,
+    "x": 0,
+    "y": 268
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "38C30F46-C0DF-4079-AD42-0686CA899F19"
+    },
+    {
+      "class": "group",
+      "id": "C29B711F-81CE-45BC-B1A7-300B48C1DD04"
+    },
+    {
+      "class": "group",
+      "id": "A1184DD7-A5E9-4E71-9D82-47FFA5A3F94C"
+    },
+    {
+      "class": "group",
+      "id": "C0407A8D-304C-4961-90AA-9D131864A7BB"
+    },
+    {
+      "class": "group",
+      "id": "EC74EA9C-EFE1-4A40-858A-6223CE089127"
+    },
+    {
+      "class": "group",
+      "id": "A02610AE-1567-4A4A-BDCC-B1E79AC2D642"
+    }
+  ],
+  "name": "Typoghraphy Table",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D5307538-A00A-4DF2-988E-B182D1E8964D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 169,
+    "x": 0,
+    "y": 109
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 128,
+  "masterInfluenceEdgeMaxYPadding": 128,
+  "masterInfluenceEdgeMinXPadding": 128,
+  "masterInfluenceEdgeMinYPadding": 128,
+  "name": "Input - Radio Button - Selected",
+  "nameIsFixed": true,
+  "overrides": {
+    "02F7C31E-C0D3-41C9-A1A7-4F1219788D86": {
+      "8361C980-FB9A-4297-A3F3-D3F3E2542B78": "Pancakes"
+    },
+    "3ADEDAE2-55B2-4AD1-929D-FEFA5ADEEC92": {
+      "symbolID": "8288E8B1-C6CA-48B2-A99E-DE224F87138C"
+    },
+    "7A7A3330-2082-425E-B9EC-005AEFCD4D50": {
+      "symbolID": "8288E8B1-C6CA-48B2-A99E-DE224F87138C"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "259D3A2B-4D02-4145-B3EB-D593A042D68E",
+  "verticalSpacing": 0
+}

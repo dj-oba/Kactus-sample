@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "DFBB90F2-735B-40D4-8A20-4883D0564396",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 42,
+    "width": 144,
+    "x": 0,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D8D811F0-E88D-477E-AEBF-EEFC04AFA47D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "65587758-FE91-402A-9B1C-B77D054F2C51"
+    },
+    {
+      "class": "group",
+      "id": "841C74FB-B3E9-4FD9-80C4-BCDD0FF5F78C"
+    },
+    {
+      "class": "group",
+      "id": "0B77610F-88BD-46FB-BD60-4111C716ABA1"
+    },
+    {
+      "class": "group",
+      "id": "1434D08E-A555-495C-B8C6-98963B07265E"
+    }
+  ],
+  "name": "Apple Store Badge",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

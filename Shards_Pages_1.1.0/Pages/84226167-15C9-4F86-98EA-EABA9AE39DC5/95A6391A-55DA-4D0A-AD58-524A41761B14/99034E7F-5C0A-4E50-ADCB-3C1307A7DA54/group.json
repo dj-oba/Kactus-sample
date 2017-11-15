@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "99034E7F-5C0A-4E50-ADCB-3C1307A7DA54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 173,
+    "width": 526,
+    "x": 0,
+    "y": 206
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B2F04F1E-4C96-4AB3-8478-E9920CEC7C91"
+    },
+    {
+      "class": "text",
+      "id": "3FE82381-718E-4E53-99C2-E540946E3603"
+    },
+    {
+      "class": "text",
+      "id": "5CA6FA9F-A822-48B0-979E-5DB1018726A4"
+    }
+  ],
+  "name": "Feature - Design & Branding",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

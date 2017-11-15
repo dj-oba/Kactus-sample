@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "122B710D-7346-4444-B24E-9B40638A0EBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 158,
+    "x": 513,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Button - Squared - Danger",
+  "nameIsFixed": true,
+  "overrides": {
+    "6BAA25A6-EF3D-457A-B576-E4948FAA6546": {
+      "symbolID": "32E962EC-D6B3-41B2-BB6E-AAB3300C2A83"
+    },
+    "AB06B658-1610-4D63-BF1D-D85B72B18B98": {
+      "symbolID": "32E962EC-D6B3-41B2-BB6E-AAB3300C2A83"
+    },
+    "CA2B9853-C60D-4321-B5EE-49BDBDD394B9": {
+      "A9CD4C14-BE87-4AB2-8E3F-2478DCFBBA10": "Danger"
+    },
+    "D14CFA7E-F421-4576-906B-C7A83E1F9481": {
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B44F9C0F-26E6-48F1-BEA5-843204322EAE",
+  "verticalSpacing": 0
+}

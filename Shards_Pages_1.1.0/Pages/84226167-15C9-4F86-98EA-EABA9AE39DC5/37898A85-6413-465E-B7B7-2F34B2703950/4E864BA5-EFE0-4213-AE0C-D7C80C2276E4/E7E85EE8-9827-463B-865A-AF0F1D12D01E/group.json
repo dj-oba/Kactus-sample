@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "E7E85EE8-9827-463B-865A-AF0F1D12D01E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 26,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "24D677AF-E3B7-4DE5-A0C6-411444E789AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD3B7DC6-81CE-4340-9504-045CA4F432C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "60979886-E061-4400-BEE8-080DDFD083CF"
+    }
+  ],
+  "name": "Shards - Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

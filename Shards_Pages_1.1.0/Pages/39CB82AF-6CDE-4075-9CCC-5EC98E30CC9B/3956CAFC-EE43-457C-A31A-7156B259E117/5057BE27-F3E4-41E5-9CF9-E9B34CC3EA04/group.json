@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "5057BE27-F3E4-41E5-9CF9-E9B34CC3EA04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 272,
+    "x": 755,
+    "y": 88
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0065BF8C-2CAB-4765-82D0-1B78A339CC6A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52148EC1-1010-444D-8E76-5ACE7ACCC3B6"
+    }
+  ],
+  "name": "Latest Posts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

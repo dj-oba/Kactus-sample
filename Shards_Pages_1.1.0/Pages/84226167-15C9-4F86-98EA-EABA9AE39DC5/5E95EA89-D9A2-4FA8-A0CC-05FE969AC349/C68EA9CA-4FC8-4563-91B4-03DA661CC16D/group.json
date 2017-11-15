@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "C68EA9CA-4FC8-4563-91B4-03DA661CC16D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 256,
+    "x": 763,
+    "y": 88
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5E34E17E-B42D-41F9-83D7-826D6E20B312"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB4E4BEF-5784-4879-A0E3-780FC7ED708A"
+    }
+  ],
+  "name": "Contact Us",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

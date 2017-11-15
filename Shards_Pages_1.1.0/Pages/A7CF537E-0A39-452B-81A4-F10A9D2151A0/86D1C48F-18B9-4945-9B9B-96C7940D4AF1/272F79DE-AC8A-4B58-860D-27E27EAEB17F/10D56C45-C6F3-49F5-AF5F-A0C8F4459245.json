@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "10D56C45-C6F3-49F5-AF5F-A0C8F4459245",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 98,
+    "width": 463,
+    "x": 513,
+    "y": 204
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 5,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Input Text - Password",
+  "nameIsFixed": true,
+  "overrides": {
+    "0F46BF1F-0237-401B-9EE9-0431503CAAE9": {
+    },
+    "7329E7D1-28EB-4688-9772-39DBBFD18073": "Password",
+    "A4FE87FB-1298-4451-B4A1-62DCB11F7A04": {
+      "8BB99A25-F424-4175-89CB-09A5FAB998ED": " • • • • • • • • •"
+    },
+    "F0B960A8-9535-46AD-89C7-CAA89A4714B4": {
+      "8361C980-FB9A-4297-A3F3-D3F3E2542B78": "Password"
+    },
+    "FF44ED0B-C08D-484D-85B6-06FB4935C3CF": {
+      "13C07004-A885-4EB0-B87A-6CD0E1010A56": "Password"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5CA7CAEC-8C9B-4466-8309-A2C2128094D2",
+  "verticalSpacing": 0
+}

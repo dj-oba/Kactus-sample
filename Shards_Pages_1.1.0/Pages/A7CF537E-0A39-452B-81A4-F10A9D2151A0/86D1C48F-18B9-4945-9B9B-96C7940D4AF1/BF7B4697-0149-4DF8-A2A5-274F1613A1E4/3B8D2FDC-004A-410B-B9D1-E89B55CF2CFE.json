@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3B8D2FDC-004A-410B-B9D1-E89B55CF2CFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 449,
+    "x": 0,
+    "y": 625
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 5,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Input - Checkbox - Terms",
+  "nameIsFixed": true,
+  "overrides": {
+    "26D9B12E-390E-43B1-BC53-8B9F9D9223BE": {
+      "symbolID": "B6CCDA17-D151-446C-A261-CFF65F0B7B6D"
+    },
+    "6ECAD8EC-7B84-4FD1-B2B4-08B1866BFC98": "Do you agree to our terms & conditions?",
+    "F2416189-AA94-4546-AB44-B50309E65BA6": {
+      "8361C980-FB9A-4297-A3F3-D3F3E2542B78": "Do you agree to our terms & conditions?",
+      "C4C45EED-B30C-4D6E-B0BE-8E979F1CCCEA": "Do you agree to our terms & conditions?",
+      "symbolID": "A284BBD9-2B21-4616-B8E3-8A994827D97A"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "00D013D6-84AE-48BE-8DD1-C174C056A629",
+  "verticalSpacing": 0
+}

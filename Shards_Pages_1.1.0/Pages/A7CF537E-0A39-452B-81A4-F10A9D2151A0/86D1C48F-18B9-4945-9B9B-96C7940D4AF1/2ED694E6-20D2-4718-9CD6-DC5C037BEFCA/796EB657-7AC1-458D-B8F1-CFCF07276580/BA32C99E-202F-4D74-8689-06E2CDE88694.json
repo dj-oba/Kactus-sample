@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BA32C99E-202F-4D74-8689-06E2CDE88694",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 228,
+    "x": 2,
+    "y": 157
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 5,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Input - Toggle Switch Disabled",
+  "nameIsFixed": true,
+  "overrides": {
+    "95AF0D52-A33E-41CC-A904-F800947AA6C6": {
+      "8361C980-FB9A-4297-A3F3-D3F3E2542B78": "HAL 9K"
+    },
+    "A0B28970-328E-49EE-9565-AE434DD868DA": {
+      "symbolID": "07AE69E0-247F-4488-96FE-19689C657091"
+    },
+    "F7556C77-A5FA-473A-B5D5-690A0A8D1867": {
+      "FD21D3A1-ED01-4DD9-9324-B35ECFCF3760": {
+        "symbolID": "77D33FFB-1C74-4565-8261-4241948396C5"
+      },
+      "symbolID": "E40174BA-F6AF-4A0A-97B3-EAC8D149719D"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8C7CC536-5CB0-4B64-86C1-FF59324BF4DB",
+  "verticalSpacing": 0
+}

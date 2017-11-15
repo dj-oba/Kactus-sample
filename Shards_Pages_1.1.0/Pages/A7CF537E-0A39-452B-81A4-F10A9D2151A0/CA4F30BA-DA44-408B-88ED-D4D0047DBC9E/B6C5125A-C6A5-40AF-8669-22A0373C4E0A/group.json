@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "B6C5125A-C6A5-40AF-8669-22A0373C4E0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 580,
+    "width": 416,
+    "x": 0,
+    "y": 265
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "11B03CFB-E1C6-4A68-A5C0-A2CA4D005C9A"
+    },
+    {
+      "class": "group",
+      "id": "8CAB00EA-2B75-4235-A1F8-C6ABC8E66EC5"
+    },
+    {
+      "class": "text",
+      "id": "405A2BC4-65F9-4E04-BD52-DEA8F6BBB4A3"
+    },
+    {
+      "class": "text",
+      "id": "78BCE1EC-F17D-4513-AC0F-A729CAEB3BDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48D09B04-3721-4172-B1CE-90B3CE46276E"
+    }
+  ],
+  "name": "Card - 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

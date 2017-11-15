@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "772FFAEB-25FB-4C5E-9D73-AD1659855251",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 105,
+    "width": 1781,
+    "x": 0,
+    "y": 1063
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "48CA6A70-9573-4EE6-A0E5-E3A2C9371D61"
+    },
+    {
+      "class": "text",
+      "id": "624C5E46-3014-4F7C-9621-9664206C4152"
+    },
+    {
+      "class": "group",
+      "id": "832AD99F-5421-45A8-B859-17A074EB8475"
+    },
+    {
+      "class": "group",
+      "id": "440F224B-726F-48FC-8B92-0E748B2D36B3"
+    },
+    {
+      "class": "text",
+      "id": "D25C85CF-9B51-451A-A1E9-F8ED95F36684"
+    }
+  ],
+  "name": "Navbar - Light",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
